@@ -18,7 +18,7 @@ const Footer = () => {
                     </div>
                 </div>
                 <div className="footer__content__menus">
-                    <div>Connect with me</div>
+                    <div>Get In Touch</div>
                     <div className='footer__content__email'>Email: vatsalya.sagraya@gmail.com</div>
                     <div className='footer__content__hr'></div>
                     <div className='footer__content__links'>
